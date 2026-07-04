@@ -1,4 +1,4 @@
-package Strategy;
+package strategy;
 
 public class Agressivo implements Comportamento {
 
@@ -6,5 +6,4 @@ public class Agressivo implements Comportamento {
     public void mover(){
         System.out.println("Movendo de forma agressiva!!");
     }
-
 }

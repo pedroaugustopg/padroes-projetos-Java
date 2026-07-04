@@ -1,4 +1,4 @@
-import Strategy.*;
+import strategy.*;
 
 public class Test {
 
@@ -20,9 +20,5 @@ public class Test {
         robo.mover();
         robo.mover();
         robo.mover();
-
-
-
-
     }
 }
