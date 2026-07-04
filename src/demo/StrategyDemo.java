@@ -1,3 +1,5 @@
+package demo;
+
 import strategy.*;
 
 public class StrategyDemo {
